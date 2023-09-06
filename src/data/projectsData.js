@@ -13,7 +13,7 @@ export const projectsData = [
     projectName: "Portfolio",
     projectDesc: "This project about to showcase portfolio of a person",
     tags: ["React", "CSS", "emailJS"],
-    code: "",
+    code: "git@github.com:tn31boy/portfolio-project.git",
     demo: "https://tn31boy.github.io/Portfolio/",
     image: one,
   },
