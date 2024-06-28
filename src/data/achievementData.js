@@ -3,13 +3,12 @@ export const achievementData = {
   achievements: [
     {
       id: 1,
-      title: "Fullstack Blockchain course(In progress)",
+      title: "Fullstack Blockchain course",
       details:
         "This course learn about web 3 development using blockchain technology",
-      date: "dec 20, 2023",
-      field: "Automation",
-      image:
-        "https://images.unsplash.com/photo-1573141597928-403fcee0e056?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=667&q=80",
+      date: "july 20, 2023-jan 9,2024",
+      field: "Blockchain",
+      image: "https://i.imgur.com/NMTzSya.png",
     },
   ],
 };

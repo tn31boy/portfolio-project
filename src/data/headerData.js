@@ -1,4 +1,4 @@
-import resume from "../assets/pdf/Rajkumar res.pdf";
+import resume from "../assets/pdf/Rajkumar_M.pdf";
 import my from "../assets/svg/my/in.jpg";
 
 export const headerData = {

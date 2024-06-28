@@ -1,5 +1,5 @@
 import one from "../assets/png/images.jpg";
-import two from "../assets/svg/skills/bb.svg";
+import two from "../assets/png/IPFTF.jpg";
 import three from "../assets/svg/projects/three.svg";
 import four from "../assets/svg/projects/four.svg";
 import five from "../assets/svg/projects/five.svg";
@@ -19,11 +19,11 @@ export const projectsData = [
   },
   {
     id: 2,
-    projectName: "Library catalog using blockchain",
+    projectName: "Transparent Fundraising",
     projectDesc:
-      "This project is a Library catalog system that allows users to add their unreaded and readed books Name ",
+      "This project add more transparent and accountability compare to normal fundraising websites using blockchain ",
     tags: ["React", "Tailwind css", "ethereum", "hardhat"],
-    code: "https://github.com/tn31boy/Library-catalog-using-blockchain",
+    code: "https://github.com/tn31boy/IPFSATF.git",
     demo: "",
     image: two,
   },
